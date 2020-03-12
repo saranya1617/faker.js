@@ -10,7 +10,11 @@
 [![OpenCollective](https://opencollective.com/fakerjs/sponsors/badge.svg)](#sponsors)
 
 ## Demo
-## intial commit
+## My Team members
+1.vellanki saranya
+2.Ashish raj
+3.sampath reddy
+4.chandra sekhar
 [https://rawgit.com/Marak/faker.js/master/examples/browser/index.html](https://rawgit.com/Marak/faker.js/master/examples/browser/index.html)
 
 ## Hosted API Microservice
