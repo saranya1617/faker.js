@@ -11,7 +11,7 @@
 
 ## Demo
 ## My Team members
-1.vellanki saranya
+1.saranya
 2.Ashish raj
 3.sampath reddy
 4.chandra sekhar
@@ -481,4 +481,5 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 <a href="https://opencollective.com/fakerjs/sponsor/26/website" target="_blank"><img src="https://opencollective.com/fakerjs/sponsor/26/avatar.svg"></a>
 <a href="https://opencollective.com/fakerjs/sponsor/27/website" target="_blank"><img src="https://opencollective.com/fakerjs/sponsor/27/avatar.svg"></a>
 <a href="https://opencollective.com/fakerjs/sponsor/28/website" target="_blank"><img src="https://opencollective.com/fakerjs/sponsor/28/avatar.svg"></a>
-<a href="https://opencollective.com/fakerjs/sponsor/29/website" target="_blank"><img src="https://opencollective.com/fakerjs/sponsor/29/avatar.svg"></a>
+<a href="https://opencollective.com/fakerjs/sponsor/29/website" target="_blank"><img src="https://opencollective.com/fakerjs/sponsor/29/avatar.svg"></a
+>
